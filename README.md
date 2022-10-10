@@ -16,16 +16,3 @@
 # 노션 링크
 
 <a href="https://www.notion.so/appschool1st/10-9dd3475285574f95a97e13a73c2de9d8"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
