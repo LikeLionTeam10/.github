@@ -9,6 +9,18 @@
 
 </br>
 
+# 멤버
+
+|이름|깃헙링크|
+|:---:|:---:|
+| *👖 진형* |[JINHYUNGP](https://github.com/JINHYUNGP/LikeLion)|
+| *🚘 승준* |[ValseLee](https://github.com/ValseLee)|
+| *🐻 성민* |[Teddy](https://github.com/teddy5518)|
+| *🐷 형구* |[cho407](https://github.com/cho407)|
+| *🇰🇷 원형* |[whl0526](https://github.com/whl0526?tab=repositories)|
+| *🍸 석준* |[CodingGorani](https://github.com/CodingGorani)|
+| *🧸 예원* |[yewon5858]([https://github.com/JINHYUNGP/LikeLion](https://github.com/yewon5858))|
+| *💫 혜성* |[-]|
 
 # 일정
 매주 목요일 아침 7:40 미라클 타임...!
