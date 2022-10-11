@@ -20,7 +20,7 @@
 | *🇰🇷 원형* |[whl0526](https://github.com/whl0526?tab=repositories)|
 | *🍸 석준* |[CodingGorani](https://github.com/CodingGorani)|
 | *🧸 예원* |[yewon5858](https://github.com/yewon5858)|
-| *💫 혜성* |[-]|
+| *💫 혜성* |[angry-dev](https://github.com/angry-dev)|
 
 # 일정
 매주 목요일 아침 7:40 미라클 타임...!
